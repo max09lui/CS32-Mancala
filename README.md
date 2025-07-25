@@ -15,8 +15,8 @@ Whenever the player whose turn it is can not make a move (because their side is 
 
 download repository with bash command:
 ```shell
-[git clone https://github.com/max09lui/WTL-AI_Trial_Project
-](https://github.com/max09lui/CS32-Mancala.git)```
+git clone https://github.com/max09lui/CS32-Mancala.git
+```
 
 run game
 ```shell
