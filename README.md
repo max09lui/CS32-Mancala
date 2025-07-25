@@ -30,6 +30,9 @@ North: name1
 0      0
  3 3 3
 SOUTH: name2
+
+*South/North* move
+Enter a hole number to make a move:
 ```
 
 
