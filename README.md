@@ -11,11 +11,16 @@ In all other cases, the turn ends.
 
 Whenever the player whose turn it is can not make a move (because their side is empty), any beans remaining in their opponent's holes are put into that opponent's pot and the game is over. The winner is the player whose pot has the most beans.
 
-## How to Run
+## How to Download
 
 download repository with bash command:
 ```shell
 git clone https://github.com/max09lui/CS32-Mancala.git
+```
+
+compile game
+```shell
+./game_app
 ```
 
 run game
